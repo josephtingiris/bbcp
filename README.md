@@ -1,6 +1,6 @@
-# bbcp
+# bbcp ([BaBar](https://www.slac.stanford.edu/BFROOT/) copy)
 
-[BaBar](https://www.slac.stanford.edu/BFROOT/) copy; Securely and quickly copy data from source to target.
+Secure and fast copy utility.
 
 ## Version
 
